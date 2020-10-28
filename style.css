@@ -1,0 +1,80 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.text-highlight{
+    color:orange;
+}
+.btn-style{
+    padding:5px 10px;
+    background-color: crimson;
+    color:white;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.half-width{
+    float: left;
+    width:40%;
+    margin-left: 5%;
+}
+.half-width>img{
+    width:100%;
+}
+h1{
+    font-size: 35px;
+}
+.header{
+    background-image: url("img/header-bg.png");
+    height:500px;
+    background-repeat: no-repeat;
+}
+.biography{
+    background-image: url("img/biography-bg.png");
+    background-repeat: no-repeat;
+    height:600px;
+    margin-top:50px;
+}
+.img-set{
+    float: left;
+    width:30%;
+    margin-left: 3%;
+}
+.img-set>img{
+    width:100%;
+}
+.lts-work{
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height:500px;
+    margin-top: 100px;
+}
+.lts-work>h1{
+    text-align: center;
+}
+.review h1{
+    text-align: center;
+}
+
+.cl-name{
+    text-align: center;
+}
+
+.contract{
+    text-align: center;
+    background-color: crimson;
+    padding:30px 40px;
+    border-radius: 10px;
+    color: white;
+    width:500px;
+
+}
+.contract-info{
+   margin:5px 29%;
+}
+.footer{
+    background-image: url("img/footer-bg.png");
+    height: 50px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 50px;
+}
